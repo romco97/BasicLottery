@@ -1,0 +1,8 @@
+C:\Users\r4z0r\source\repos\lotto\lotto\bin\Debug\lotto.exe.config
+C:\Users\r4z0r\source\repos\lotto\lotto\bin\Debug\lotto.exe
+C:\Users\r4z0r\source\repos\lotto\lotto\bin\Debug\lotto.pdb
+C:\Users\r4z0r\source\repos\lotto\lotto\obj\Debug\lotto.csproj.AssemblyReference.cache
+C:\Users\r4z0r\source\repos\lotto\lotto\obj\Debug\lotto.csproj.SuggestedBindingRedirects.cache
+C:\Users\r4z0r\source\repos\lotto\lotto\obj\Debug\lotto.csproj.CoreCompileInputs.cache
+C:\Users\r4z0r\source\repos\lotto\lotto\obj\Debug\lotto.exe
+C:\Users\r4z0r\source\repos\lotto\lotto\obj\Debug\lotto.pdb
